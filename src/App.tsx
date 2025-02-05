@@ -22,12 +22,12 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Heyyyyy, Anshumaaa.",
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `Its been an year since we met.
+      And out of all the people here, my vibe always matches with you.
       `,
       image: "/character/two.png",
     },
