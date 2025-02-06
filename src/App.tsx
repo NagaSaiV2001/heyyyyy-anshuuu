@@ -27,13 +27,13 @@ function App() {
     },
     {
       content: `Its been an year since we met.
-      And out of all the people here, my vibe always matches with you.`,
+      And out of all the people here, my vibe always matches with you.
       `,
       image: "/character/two.png",
     },
     {
       content: `Its in the bangalore trip, I came to know more about you.
-      And it's only you who can listen to me all day ❤️ `,
+      And it's only you who can listen to me all day ❤️
       `,
       image: "/character/three.png",
     },
