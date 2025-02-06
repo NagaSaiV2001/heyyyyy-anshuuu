@@ -27,13 +27,13 @@ function App() {
     },
     {
       content: `Its been more than an year since we met.
-      Out of all the people in my life, you have become my go-to person.
+      Out of all the people in my life, you have become my go-to person every time.
       `,
       image: "/character/two.png",
     },
     {
       content: `I am always grateful to the bangalore trip, which made us close.
-      It's only you who can listen to me all day ❤️
+      Since then you're by my side every day ❤️
       `,
       image: "/character/three.png",
     },
@@ -43,8 +43,8 @@ You make spending time together feel too short.`,
       image: "/character/four.png",
     },
     {
-      content: `All those endless talks and many many beautiful moments,
-always be with me till the end of my life.`,
+      content: `All those endless talks, fights and smiles,
+will always be with me till the end of my life.`,
       image: "/character/five.png",
     },
     {
@@ -52,7 +52,7 @@ always be with me till the end of my life.`,
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine?",
+      content: "Will you be my Valentine for this year?",
       image: "/character/seven.png",
     },
   ];
