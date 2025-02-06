@@ -27,23 +27,24 @@ function App() {
     },
     {
       content: `Its been an year since we met.
-      And out of all the people here, my vibe always matches with you.
+      And out of all the people here, my vibe always matches with you.`,
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Its in the bangalore trip, I came to know more about you.
+      And it's only you who can listen to me all day ❤️ `,
       `,
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
-and you make spending time together feel too short.`,
+      content: `You're beautiful, you're patient and you're fun,
+You make spending time together feel too short.`,
       image: "/character/four.png",
     },
     {
-      content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+      content: `All those endless talks and many many beautiful moments,
+always be with me till the end of my life.`,
       image: "/character/five.png",
     },
     {
