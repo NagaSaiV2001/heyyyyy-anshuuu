@@ -26,14 +26,14 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `Its been an year since we met.
-      And out of all the people here, my vibe always matches with you.
+      content: `Its been more than an year since we met.
+      Out of all the people in my life, you have become my go-to person.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Its in the bangalore trip, I came to know more about you.
-      And it's only you who can listen to me all day ❤️
+      content: `I am always grateful to the bangalore trip, which made us close.
+      It's only you who can listen to me all day ❤️
       `,
       image: "/character/three.png",
     },
